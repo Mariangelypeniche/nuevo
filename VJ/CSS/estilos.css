@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: hsl(66, 94%, 67%);
+    font-family: Dosis;
+}
+
+#container{
+    
+    color: blue;
+
+}
+
+header{
+    background: rgb(47, 255, 134);
+    width: 100%;
+    text-align: center;
+
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 30px;
+    
+}
+
+.clearfix{
+    clear:both;
+}
+
+#Content{
+    line-height: 30px;
+    text-align: center;
+    margin: 50px;
+    
+}
+footer{
+    text-align: center;
+    background-color: aqua;
+}
+h2{
+    line-height: 70px;
+
+}
